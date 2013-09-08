@@ -1,0 +1,11 @@
+Testfile Branch/Merge - Uebung Git
+
+Testdaten:
+
+Dies ist ein Test - Urzustand der Datei =
+1
+2
+3
+4
+5
+
