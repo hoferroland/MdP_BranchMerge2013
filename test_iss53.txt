@@ -1,0 +1,18 @@
+Testfile Branch/Merge - Uebung Git
+
+Testdaten:
+
+Dies ist ein Test - Urzustand der Datei =
+
+10
+11
+12
+13
+14
+15
+
+Wurde im Branch iss53 erstellt
+
+
+
+
