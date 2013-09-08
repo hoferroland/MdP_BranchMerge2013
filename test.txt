@@ -8,4 +8,5 @@ Dies ist ein Test - Urzustand der Datei =
 3
 4
 5
+6 (Wert ergänzt als Hotfix in Branch 'hotfix')
 
