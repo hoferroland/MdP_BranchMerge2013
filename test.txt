@@ -4,7 +4,7 @@ Testdaten:
 
 Dies ist ein Test - Urzustand der Datei =
 1
-2
+2 Aenderung in TestBranch
 3
 4
 5
